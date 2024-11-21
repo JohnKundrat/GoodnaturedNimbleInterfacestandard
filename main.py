@@ -20,9 +20,7 @@ print("")
 
 # Question 2
 
-print(
-    "2. Would you like to upgrade from the 4-door option to the 2-door option?"
-)
+print("2. Would you like to upgrade from the 4-door option to the 2-door option?")
 carDoorUpgrade = input("Please enter 'yes' or' 'no': ")
 print("")
 
