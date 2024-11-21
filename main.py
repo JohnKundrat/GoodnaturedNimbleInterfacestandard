@@ -16,7 +16,7 @@ print("  b. Eco Leaf")
 print("  c. Harp Chord")
 print("  d. Chevron")
 carMake = input("Please enter (a) - (d): ")
-print("")
+print(" ")
 
 # Question 2
 
