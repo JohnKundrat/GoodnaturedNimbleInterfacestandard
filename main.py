@@ -25,6 +25,7 @@ carDoorUpgrade = input("Please enter 'yes' or' 'no': ")
 print("")
 
 # Question 3
+
 print(" ~ Exterior ~")
 print("")
 print("3. What color would you like your car to be?")
@@ -32,11 +33,13 @@ carColor = input("You may enter the name of any color you'd like: ")
 print("")
 
 # Question 4
+
 print("4. Would you like the deluxe weather package?")
 carWeatherPackage = input("Please enter 'yes' or 'no': ")
 print("")
 
 #Question 5
+
 print("~ Interior~")
 print("")
 print("5. Which Engine would you like your car to have?")
@@ -47,6 +50,7 @@ carEngine = input("Please enter (a) - (c): ")
 print("")
 
 #Question 6
+
 print("6. Would you like heated seats?")
 carHeatedSeats = input("Please enter 'yes' or 'no': ")
 print("")
